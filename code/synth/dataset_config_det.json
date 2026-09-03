@@ -1,0 +1,58 @@
+{
+  "_comment_1": "DETECTOR dataset profile. Drives generate_realistic.py, NOT generate_grid_transforms.py.",
+  "_comment_2": "The 25k det training set was built with the GRID generator (7x6 cells, <=6 words/cell, 8% empty) = ~121 words/image at ~32% text area. Real Marathi/Hindi scene photos carry ~11 words/image. That 11x density gap taught the detector to expect text everywhere and to read periodic stroke texture as text, which is why it over-fires on awnings, grilles and trusses with high confidence.",
+  "_comment_3": "min_groups 3 / max_groups 8 with ~1.9 words per group lands at ~10-11 words/image. Verify with: python FineTune/det_dataset_stats.py --dataset-dir <out> --real-csv <fullpage_real_marathi/after_per_image.csv>",
+  "_comment_4": "bg_dir MUST point at real street/building photos containing the clutter the detector currently false-positives on (shutters, corrugated awnings, lattice trusses, window grilles, railings). With negative_frac 0.20, one image in five is that clutter with no text on it at all.",
+
+  "bg_dir": "~/data/BackgroundImages",
+  "vocab_dir": "./vocab",
+  "out_dir": "./out_dataset_det",
+  "num_scenes": 25000,
+  "seed": 0,
+  "emit_transcription": true,
+  "start_index": 0,
+
+  "min_groups": 3,
+  "max_groups": 8,
+  "max_words": 4,
+  "iou_thresh": 0.05,
+  "place_tries": 80,
+
+  "negative_frac": 0.20,
+
+  "min_size": 12,
+  "max_size": 50,
+  "size_bias": 2.0,
+  "resize": 1024,
+
+  "script_weights": {
+    "latin": 1.5,
+    "devanagari": 1.0,
+    "telugu": 1.0,
+    "tamil": 1.0,
+    "kannada": 1.0,
+    "malayalam": 1.0,
+    "bengali": 1.0,
+    "gujarati": 1.0,
+    "gurmukhi": 1.0,
+    "oriya": 1.0,
+    "urdu": 1.0
+  },
+
+  "rotate_prob": 0.12,
+  "italic_prob": 0.10,
+  "perspective_prob": 0.15,
+  "perspective_frac": 0.10,
+
+  "bold_prob": 0.15,
+  "stroke_prob": 0.25,
+  "shadow_prob": 0.20,
+  "faded_prob": 0.10,
+  "inst_blur_prob": 0.10,
+
+  "aug_prob": 0.40,
+  "hue_prob": 0.20,
+  "gray_prob": 0.08,
+  "img_blur_prob": 0.15,
+  "noise_prob": 0.20
+}

@@ -1,0 +1,396 @@
+# fonts checked: 1274 | flagged: 339
+telugu	29/500	/home/mahima/.fonts/LakkiReddy.ttf	వివరిస్తారా?" జేర్ప?' జరిగిందేవిటి?" అడవి'... సాలే" "నిది "సుకృతములందునుం, చెప్తున్నాననుకుంటున్నావా?" "బాబుగారూ..!" మాట్లాడుతుంటావోయ్"
+telugu	3/500	/home/mahima/.fonts/Nandini.ttf	వాళ్ళు- యే- Chattarjee
+telugu	3/500	/home/mahima/.fonts/Nandini3.ttf	వాళ్ళు- యే- Chattarjee
+telugu	1/500	/home/mahima/.fonts/NotoSansTelugu-Bold.ttf	Chattarjee
+telugu	1/500	/home/mahima/.fonts/NotoSansTelugu-Regular.ttf	Chattarjee
+telugu	1/500	/home/mahima/.fonts/NotoSansTeluguUI-Bold.ttf	Chattarjee
+telugu	1/500	/home/mahima/.fonts/NotoSansTeluguUI-Regular.ttf	Chattarjee
+telugu	29/500	/home/mahima/.fonts/Ponnala-Regular.ttf	వివరిస్తారా?" జేర్ప?' జరిగిందేవిటి?" అడవి'... సాలే" "నిది "సుకృతములందునుం, చెప్తున్నాననుకుంటున్నావా?" "బాబుగారూ..!" మాట్లాడుతుంటావోయ్"
+telugu	29/500	/home/mahima/.fonts/Ponnala.ttf	వివరిస్తారా?" జేర్ప?' జరిగిందేవిటి?" అడవి'... సాలే" "నిది "సుకృతములందునుం, చెప్తున్నాననుకుంటున్నావా?" "బాబుగారూ..!" మాట్లాడుతుంటావోయ్"
+telugu	1/500	/home/mahima/.fonts/Pothana2000.ttf	Chattarjee
+telugu	1/500	/home/mahima/.fonts/Pothana2001.ttf	Chattarjee
+telugu	29/500	/home/mahima/.fonts/RaviPrakash.ttf	వివరిస్తారా?" జేర్ప?' జరిగిందేవిటి?" అడవి'... సాలే" "నిది "సుకృతములందునుం, చెప్తున్నాననుకుంటున్నావా?" "బాబుగారూ..!" మాట్లాడుతుంటావోయ్"
+telugu	146/500	/home/mahima/.fonts/Subhadra.ttf	కాస్తాను. కవిత. తెఇయదు. వేదములను, వెల్లడియైనది. కాజొచ్చాయి. పనవుతున్నది. వివరిస్తారా?" విరిసినవి. పాకావసరము,
+telugu	1/500	/home/mahima/.fonts/Suravara_Samhita.ttf	Chattarjee
+telugu	1/500	/home/mahima/.fonts/Suravara_Swarna.ttf	Chattarjee
+telugu	1/500	/home/mahima/.fonts/Suravara_Swarna_bold.ttf	Chattarjee
+telugu	1/500	/home/mahima/.fonts/Suravara_Swarna_italic.ttf	Chattarjee
+telugu	80/500	/home/mahima/.fonts/Vajram.ttf	వేదములను, వివరిస్తారా?" పాకావసరము, జేర్ప?' కదా! బొసఁగ, చూడనా, యజ్ఞకర్త; జరిగిందేవిటి?" ప్రాయత;
+telugu	1/500	/home/mahima/.fonts/Vemana.ttf	Chattarjee
+telugu	144/500	/home/mahima/.fonts/lohit_te.ttf	కాస్తాను. కవిత. తెఇయదు. వేదములను, వెల్లడియైనది. కాజొచ్చాయి. పనవుతున్నది. వివరిస్తారా?" విరిసినవి. పాకావసరము,
+devanagari	5/500	/home/mahima/.fonts/BRXOTDhruv_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/BRXOTVinit_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/CDACOTYGB.TTF	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/CDACOTYGN.TTF	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/CDACSRNT.TTF	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/CDACYGIT.TTF	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/DGROTDhruv_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/DGROTVinit.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/DGROTVinit_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/DVOTKishorN_Ship.TTF	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/DVOTMohiniN_ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-BRXOTVinit.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-DGROTDhruv.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-DVOTKishor.TTF	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-DVOTMohini.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-KAS_DVOTDhruv_N_Ship.TTF	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-KAS_DVOTVinit_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-KOK-DVOTDhruv_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-KOK-DVOTVinit.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-KOK-DVOTVinit_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-MROTVinitN.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-SAT-DVOTDhruv_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-SAT-DVOTVinit.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-SAT-DVOTVinit_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-SDOTVinit.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-SND-DVOTDhruv_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-SND-DVOTVinit.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GIST-SND-DVOTVinit_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GISTOT-BRXVinit.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/GISTOT-NEPVinit.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	25/500	/home/mahima/.fonts/Gurumaa-1.50.ttf	“आजकल ss patronizing counterparts ‘अंकन्ना’, post है?” (Yellow framework “अलकनन्दा
+devanagari	18/500	/home/mahima/.fonts/Gurumaa-2.04.ttf	ss patronizing counterparts post (Yellow framework (Strom illustrations aspects theme
+devanagari	1/500	/home/mahima/.fonts/Kadwa-Bold.ttf	ईऽऽ
+devanagari	18/500	/home/mahima/.fonts/Lohit-Devanagari.ttf	ss patronizing counterparts post (Yellow framework (Strom illustrations aspects theme
+devanagari	18/500	/home/mahima/.fonts/Lohit-Marathi.ttf	ss patronizing counterparts post (Yellow framework (Strom illustrations aspects theme
+devanagari	5/500	/home/mahima/.fonts/MAIOTDhruv_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/MAIOTVinit.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/MAIOTVinit_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/MROTDhruvN_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/MROTVinitN_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/NEPOTDhruv_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/NEPOTVinit_N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/SDOTDhruv N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/SDOTVinit N_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	18/500	/home/mahima/.fonts/SHREE-DV0726-OT.TTF	ss patronizing counterparts post (Yellow framework (Strom illustrations aspects theme
+devanagari	5/500	/home/mahima/.fonts/SakalBharati Normal.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/SakalBharati Normal_Ship.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/Samanata.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	176/500	/home/mahima/.fonts/Samyak-Devanagari.ttf	चौंकी, मिळतात." शिरा-पुरी-बटाट्याची कडकडाट. पृथक-पृथक “आजकल 'टी' अन्यान्य-अविचार में-यशपाल बिन्नी-हँसने
+devanagari	5/500	/home/mahima/.fonts/Sarai.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	5/500	/home/mahima/.fonts/Sarai_07.ttf	“आजकल है?” “अलकनन्दा “नायुडू चाहिए।”
+devanagari	21/500	/home/mahima/.fonts/Sitara-Bold.ttf	ss patronizing counterparts ‘अंकन्ना’, post (Yellow framework (Strom illustrations aspects
+devanagari	21/500	/home/mahima/.fonts/Sitara-BoldItalic.ttf	ss patronizing counterparts ‘अंकन्ना’, post (Yellow framework (Strom illustrations aspects
+devanagari	21/500	/home/mahima/.fonts/Sitara-Italic.ttf	ss patronizing counterparts ‘अंकन्ना’, post (Yellow framework (Strom illustrations aspects
+devanagari	21/500	/home/mahima/.fonts/Sitara-Regular.ttf	ss patronizing counterparts ‘अंकन्ना’, post (Yellow framework (Strom illustrations aspects
+devanagari	18/500	/home/mahima/.fonts/lohit_hi.ttf	ss patronizing counterparts post (Yellow framework (Strom illustrations aspects theme
+devanagari	18/500	/home/mahima/.fonts/lohit_kok.ttf	ss patronizing counterparts post (Yellow framework (Strom illustrations aspects theme
+devanagari	18/500	/home/mahima/.fonts/lohit_ks.ttf	ss patronizing counterparts post (Yellow framework (Strom illustrations aspects theme
+devanagari	18/500	/home/mahima/.fonts/lohit_mai.ttf	ss patronizing counterparts post (Yellow framework (Strom illustrations aspects theme
+devanagari	18/500	/home/mahima/.fonts/lohit_mr.ttf	ss patronizing counterparts post (Yellow framework (Strom illustrations aspects theme
+devanagari	18/500	/home/mahima/.fonts/lohit_ne.ttf	ss patronizing counterparts post (Yellow framework (Strom illustrations aspects theme
+devanagari	18/500	/home/mahima/.fonts/lohit_sd.ttf	ss patronizing counterparts post (Yellow framework (Strom illustrations aspects theme
+tamil	3/500	/home/mahima/.fonts/KarlaTamilInclined-Bold.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/KarlaTamilInclined-Regular.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/KarlaTamilUpright-Bold.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/KarlaTamilUpright-Regular.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/Lohit-Tamil-Classical.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/Lohit-Tamil.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/RRJanaTamil.TTF	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM 0806.TTF	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM 0807.TTF	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM 0808.TTF	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM 0810.TTF	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM 0812.TTF	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM 0819.TTF	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM 0820.TTF	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-0806.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-0807.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-0808.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-0810.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-0812.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-0819.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-0820.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-0821.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-0823.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-0824.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-0827.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-0830.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-0831.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-1341.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-1342.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-1351.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-1352.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-2852.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-2865.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/SUNDARAM-3811.ttf	V. military GAlgotia
+tamil	166/500	/home/mahima/.fonts/Samyak-Tamil.ttf	மருமகனையுங்ம, போய்விடுவேன். புத்திரிகைகள்; 'மலர 'யாயத்திடனும் தைரியங்கொண்டு, பூஜிக்கவேண்டும். உற்று-கேளாகி கூறியபடி, ஸபிண்டி!
+tamil	3/500	/home/mahima/.fonts/TAU-Barathi-B.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Barathi-BI.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Barathi-I.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Barathi.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Kabilar-B.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Kabilar-BI.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Kabilar-I.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Kabilar.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Kambar-B.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Kambar-BI.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Kambar-I.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Kambar.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Kaveri-B.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Kaveri-BI.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Kaveri-I.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Kaveri.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Valluvar-B.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Valluvar-BI.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Valluvar-I.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/TAU-Valluvar.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/latha.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/lohit_ta.ttf	V. military GAlgotia
+tamil	3/500	/home/mahima/.fonts/tau1_bar.ttf	V. military GAlgotia
+kannada	11/500	/home/mahima/.fonts/Gubbi.ttf	(Comptroller) cells, Facilities) European ttee) [ನಿನಿನಿ ples OR Engineers, (Bahaism)
+kannada	10/500	/home/mahima/.fonts/Lohit-Kannada.ttf	(Comptroller) cells, Facilities) European ttee) ples OR Engineers, (Bahaism) these
+kannada	11/500	/home/mahima/.fonts/Navilu.ttf	(Comptroller) cells, Facilities) European ttee) [ನಿನಿನಿ ples OR Engineers, (Bahaism)
+malayalam	1/500	/home/mahima/.fonts/RaghuMalayalamSans-Regular.ttf	mentality.
+malayalam	143/500	/home/mahima/.fonts/lohit_ml.ttf	സ്ഥലങ്ങളില്‍പ്പെട്ടവരാണ്. ജന്മാവകാശമാണ്. കല്പിക്കുന്നതെന്നിരിക്കെ, അറബിക്കഥകള്‍, സുഖമായിരിക്കാനോ? കൂടിയോ?' വേര്‍പ്പെടുത്തിവെയ്ക്കാനാവുകയില്ല. അതിനിടയില്‍, നനഞ്ഞിരുന്നു. 1927-ല്‍
+bengali	8/500	/home/mahima/.fonts/16_December_31-08-2012.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	2/500	/home/mahima/.fonts/ASOTArbindo N_Ship.ttf	“কাল্লে লাউ”
+bengali	2/500	/home/mahima/.fonts/ASOTSatyajit N_Ship.ttf	“কাল্লে লাউ”
+bengali	8/500	/home/mahima/.fonts/AdorshoLipi.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	8/500	/home/mahima/.fonts/AdorshoLipi_20-07-2007.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	10/500	/home/mahima/.fonts/AponaLohit.ttf	(personality) superstition Own central sever 1916. লুংনিলৈ/৯৩ "understanding Powder; এফ/
+bengali	2/500	/home/mahima/.fonts/Azad_27-02-2006.ttf	অন্যায়— জমে—
+bengali	18/500	/home/mahima/.fonts/BHAGO___.ttf	(personality) superstition প্রয়োজন–এবং Own বলল–কেন central বলল–ডাকাইত sever ?"–আমার অন্যায়—
+bengali	2/500	/home/mahima/.fonts/BNOTArbindoN_Ship.TTF	“কাল্লে লাউ”
+bengali	2/500	/home/mahima/.fonts/BNOTSatyajitSM_N_Ship.ttf	“কাল্লে লাউ”
+bengali	18/500	/home/mahima/.fonts/BORAKOMJ.ttf	(personality) superstition প্রয়োজন–এবং Own বলল–কেন central বলল–ডাকাইত sever ?"–আমার অন্যায়—
+bengali	18/500	/home/mahima/.fonts/BURISO__.ttf	(personality) superstition প্রয়োজন–এবং Own বলল–কেন central বলল–ডাকাইত sever ?"–আমার অন্যায়—
+bengali	21/500	/home/mahima/.fonts/Bangla.ttf	(personality) superstition প্রয়োজন–এবং Own বলল–কেন central “কাল্লে বলল–ডাকাইত sever ?"–আমার
+bengali	8/500	/home/mahima/.fonts/Bangla_Kolom_Bold-04-09-2012.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	8/500	/home/mahima/.fonts/BenSen.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	8/500	/home/mahima/.fonts/BenSenHandwriting.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	18/500	/home/mahima/.fonts/DHAKO___.ttf	(personality) superstition প্রয়োজন–এবং Own বলল–কেন central বলল–ডাকাইত sever ?"–আমার অন্যায়—
+bengali	2/500	/home/mahima/.fonts/Durga_Bold-04-09-2012.ttf	অন্যায়— জমে—
+bengali	8/500	/home/mahima/.fonts/Ekushey_Ananta_12-02-2013.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	2/500	/home/mahima/.fonts/GIST-ASOTSatyajit.ttf	“কাল্লে লাউ”
+bengali	2/500	/home/mahima/.fonts/GIST-BNOTSatyajitSM.ttf	“কাল্লে লাউ”
+bengali	2/500	/home/mahima/.fonts/GIST-MNI-BNOTAbhijit_N_Ship.TTF	“কাল্লে লাউ”
+bengali	2/500	/home/mahima/.fonts/GIST-MNI-BNOTArbindo.ttf	“কাল্লে লাউ”
+bengali	2/500	/home/mahima/.fonts/GIST-MNI-BNOTArbindo_N_Ship.ttf	“কাল্লে লাউ”
+bengali	8/500	/home/mahima/.fonts/Ghorautra_Bold_31-08-2012.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	2/500	/home/mahima/.fonts/Godhuli_03-09-2005.ttf	অন্যায়— জমে—
+bengali	14/500	/home/mahima/.fonts/JamrulNormal.ttf	"চৎথোকপদা লীৎ-শেৎলক্লিবা থানগৎলি ফোয়দৎনরিবা নুনিৎনি, চৎনিংবসি খূৎশেমদি মীৎনহাদা হৰিৎ কৎথোক্কে
+bengali	8/500	/home/mahima/.fonts/LalSabuj Normal_Bold-04-09-2012.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	8/500	/home/mahima/.fonts/LalSabuj_Bold-04-09-2012.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	14/500	/home/mahima/.fonts/LikhanNormal.ttf	"চৎথোকপদা লীৎ-শেৎলক্লিবা থানগৎলি ফোয়দৎনরিবা নুনিৎনি, চৎনিংবসি খূৎশেমদি মীৎনহাদা হৰিৎ কৎথোক্কে
+bengali	7/500	/home/mahima/.fonts/Lohit-Assamese.ttf	(personality) superstition Own central sever "understanding Powder;
+bengali	7/500	/home/mahima/.fonts/Lohit-Bengali.ttf	(personality) superstition Own central sever "understanding Powder;
+bengali	10/500	/home/mahima/.fonts/Lohit_14-04-2007.ttf	(personality) superstition Own central sever 1916. লুংনিলৈ/৯৩ "understanding Powder; এফ/
+bengali	2/500	/home/mahima/.fonts/Mohua_07-09-05.ttf	অন্যায়— জমে—
+bengali	25/500	/home/mahima/.fonts/MuktiNarrow.ttf	"চৎথোকপদা লীৎ-শেৎলক্লিবা থানগৎলি ফোয়দৎনরিবা প্রয়োজন–এবং নুনিৎনি, বলল–কেন চৎনিংবসি খূৎশেমদি মীৎনহাদা
+bengali	25/500	/home/mahima/.fonts/MuktiNarrowBold.ttf	"চৎথোকপদা লীৎ-শেৎলক্লিবা থানগৎলি ফোয়দৎনরিবা প্রয়োজন–এবং নুনিৎনি, বলল–কেন চৎনিংবসি খূৎশেমদি মীৎনহাদা
+bengali	11/500	/home/mahima/.fonts/Mukti_1.99_PR.ttf	প্রয়োজন–এবং বলল–কেন বলল–ডাকাইত ?"–আমার অন্যায়— রয়েছেন–কেদার জমে— বললেন–প্রকৃত না–এমন খঙলম্ব’সিদা
+bengali	8/500	/home/mahima/.fonts/Mukto.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	8/500	/home/mahima/.fonts/Mukto_Bold-04-09-2012.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	2/500	/home/mahima/.fonts/Nikosh.ttf	অন্যায়— জমে—
+bengali	2/500	/home/mahima/.fonts/NikoshBAN.ttf	অন্যায়— জমে—
+bengali	2/500	/home/mahima/.fonts/NikoshGrameen.ttf	অন্যায়— জমে—
+bengali	2/500	/home/mahima/.fonts/NikoshLight.ttf	অন্যায়— জমে—
+bengali	2/500	/home/mahima/.fonts/NikoshLightBan.ttf	অন্যায়— জমে—
+bengali	2/500	/home/mahima/.fonts/Puja-17-06-2006.ttf	অন্যায়— জমে—
+bengali	2/500	/home/mahima/.fonts/Punarbhaba_27-02-2006.ttf	অন্যায়— জমে—
+bengali	2/500	/home/mahima/.fonts/Punarbhaba_Bold-04-09-2012.ttf	অন্যায়— জমে—
+bengali	8/500	/home/mahima/.fonts/Rupali-29-Sep-2012.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	2/500	/home/mahima/.fonts/SakalBharati Normal.ttf	“কাল্লে লাউ”
+bengali	2/500	/home/mahima/.fonts/SakalBharati Normal_Ship.ttf	“কাল্লে লাউ”
+bengali	2/500	/home/mahima/.fonts/Saraswatii_03-09-2005.ttf	অন্যায়— জমে—
+bengali	2/500	/home/mahima/.fonts/Sharifa_03-09-2005.ttf	অন্যায়— জমে—
+bengali	8/500	/home/mahima/.fonts/Shimanto_31-08-2012.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	13/500	/home/mahima/.fonts/SolaimanLipi_20-04-07.ttf	প্রয়োজন–এবং বলল–কেন “কাল্লে বলল–ডাকাইত ?"–আমার অন্যায়— রয়েছেন–কেদার জমে— বললেন–প্রকৃত না–এমন
+bengali	13/500	/home/mahima/.fonts/SolaimanLipi_Bold_10-03-12.ttf	প্রয়োজন–এবং বলল–কেন “কাল্লে বলল–ডাকাইত ?"–আমার অন্যায়— রয়েছেন–কেদার জমে— বললেন–প্রকৃত না–এমন
+bengali	8/500	/home/mahima/.fonts/Sornaly_Normal_31-08-2012.ttf	(personality) superstition Own central sever 1916. "understanding Powder;
+bengali	2/500	/home/mahima/.fonts/Sumit_03-09-2005.ttf	অন্যায়— জমে—
+bengali	27/500	/home/mahima/.fonts/akaashnormal.ttf	"চৎথোকপদা লীৎ-শেৎলক্লিবা থানগৎলি ফোয়দৎনরিবা প্রয়োজন–এবং নুনিৎনি, বলল–কেন চৎনিংবসি খূৎশেমদি “কাল্লে
+bengali	27/500	/home/mahima/.fonts/ani.ttf	"চৎথোকপদা লীৎ-শেৎলক্লিবা থানগৎলি ফোয়দৎনরিবা প্রয়োজন–এবং নুনিৎনি, বলল–কেন চৎনিংবসি খূৎশেমদি “কাল্লে
+bengali	7/500	/home/mahima/.fonts/lohit_as.ttf	(personality) superstition Own central sever "understanding Powder;
+bengali	7/500	/home/mahima/.fonts/lohit_bn.ttf	(personality) superstition Own central sever "understanding Powder;
+bengali	27/500	/home/mahima/.fonts/mitra.ttf	"চৎথোকপদা লীৎ-শেৎলক্লিবা থানগৎলি ফোয়দৎনরিবা প্রয়োজন–এবং নুনিৎনি, বলল–কেন চৎনিংবসি খূৎশেমদি “কাল্লে
+bengali	27/500	/home/mahima/.fonts/sagarnormal.ttf	"চৎথোকপদা লীৎ-শেৎলক্লিবা থানগৎলি ফোয়দৎনরিবা প্রয়োজন–এবং নুনিৎনি, বলল–কেন চৎনিংবসি খূৎশেমদি “কাল্লে
+gujarati	5/500	/home/mahima/.fonts/BalooBhai-Regular.ttf	यस्म बुद्धिनाशो क्रोधाद् हस्तिना सदगुरू
+gujarati	6/500	/home/mahima/.fonts/GIST-GJOTPiyush.TTF	બાપ!] यस्म बुद्धिनाशो क्रोधाद् हस्तिना सदगुरू
+gujarati	5/500	/home/mahima/.fonts/GJOTKapila_N_Ship.ttf	यस्म बुद्धिनाशो क्रोधाद् हस्तिना सदगुरू
+gujarati	6/500	/home/mahima/.fonts/GJOTPiyushN_Ship.TTF	બાપ!] यस्म बुद्धिनाशो क्रोधाद् हस्तिना सदगुरू
+gujarati	8/500	/home/mahima/.fonts/Lohit-Gujarati.ttf	utmost यस्म बुद्धिनाशो wish क्रोधाद् हस्तिना सदगुरू village
+gujarati	6/500	/home/mahima/.fonts/Rekha.ttf	ભવાનિ...॥૪॥ यस्म बुद्धिनाशो क्रोधाद् हस्तिना सदगुरू
+gujarati	165/500	/home/mahima/.fonts/Samyak-Gujarati.ttf	utmost 'અમીરસાહેબ સાંધ્યાં. અપરાધિકરણ, (સમિધા. કોતરણી. જળચર, "ભેંણ! બેસતી. ધણીને.
+gujarati	6/500	/home/mahima/.fonts/aakar-medium.ttf	ભવાનિ...॥૪॥ यस्म बुद्धिनाशो क्रोधाद् हस्तिना सदगुरू
+gujarati	6/500	/home/mahima/.fonts/padmaa-Bold.1.1.ttf	ભવાનિ...॥૪॥ यस्म बुद्धिनाशो क्रोधाद् हस्तिना सदगुरू
+gujarati	6/500	/home/mahima/.fonts/padmaa-Medium-0.5.ttf	ભવાનિ...॥૪॥ यस्म बुद्धिनाशो क्रोधाद् हस्तिना सदगुरू
+gujarati	6/500	/home/mahima/.fonts/padmaa.ttf	ભવાનિ...॥૪॥ यस्म बुद्धिनाशो क्रोधाद् हस्तिना सदगुरू
+gujarati	5/500	/home/mahima/.fonts/shruti.ttf	यस्म बुद्धिनाशो क्रोधाद् हस्तिना सदगुरू
+gujarati	5/500	/home/mahima/.fonts/shrutib.ttf	यस्म बुद्धिनाशो क्रोधाद् हस्तिना सदगुरू
+gurmukhi	9/500	/home/mahima/.fonts/AmbarKalmi.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AmbarLight-Bold.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AmbarLight.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AmbarNarrow.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AmbarNeon.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AmbarOutlined.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AmbarRaised.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AmbarShadow.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AmbarSlim.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AmbarUbhri.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	478/500	/home/mahima/.fonts/Amiri-Bold.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Amiri-BoldSlanted.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Amiri-Regular.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Amiri-Slanted.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	9/500	/home/mahima/.fonts/AnmolUni-Bold .ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AnmolUni-Bold.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AnmolUni.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AnmolUniBani-Bold.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AnmolUniBani.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AnmolUniBaniHeavy.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	9/500	/home/mahima/.fonts/AnmolUniHeavy.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	478/500	/home/mahima/.fonts/Cairo-Black.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Cairo-Bold.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Cairo-ExtraLight.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Cairo-Light.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Cairo-Regular.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Cairo-SemiBold.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Changa-Bold.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Changa-ExtraBold.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Changa-ExtraLight.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Changa-Light.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Changa-Medium.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Changa-Regular.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Changa-SemiBold.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	9/500	/home/mahima/.fonts/ChatrikUni.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	478/500	/home/mahima/.fonts/ElMessiri-Bold.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/ElMessiri-Medium.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/ElMessiri-Regular.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/ElMessiri-SemiBold.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/GIST-KAS-PAOTHabba_N_Ship.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/GIST-KAS-PAOTMaqbool.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/GIST-KAS-PAOTMaqbool_N_Ship.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/GIST-UROTGhalib.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/GIST-UROTGhalib_N_Ship.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/GIST-UROTNabeel_N_Ship.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	9/500	/home/mahima/.fonts/Gurmukhi-UCSB-Uni.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	478/500	/home/mahima/.fonts/Jameel Noori Nastaleeq.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Jomhuria-Regular.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Katibeh-Regular.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Lalezar-Regular.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/LateefRegOT.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Lemonada-Bold.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Lemonada-Light.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Lemonada-Regular.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Lemonada-SemiBold.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	9/500	/home/mahima/.fonts/Lohit-Punjabi.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	478/500	/home/mahima/.fonts/Mirza-Bold.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Mirza-Medium.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Mirza-Regular.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	500/500	/home/mahima/.fonts/Mothanna-Bold-Oblique.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	500/500	/home/mahima/.fonts/Mothanna-Bold.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	500/500	/home/mahima/.fonts/Mothanna-Oblique.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	500/500	/home/mahima/.fonts/Mothanna.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Naqsh.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	500/500	/home/mahima/.fonts/Nastaleeq-Like.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	9/500	/home/mahima/.fonts/Oankaar.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	487/500	/home/mahima/.fonts/Pak Nastaleeq (Beta Release).ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	9/500	/home/mahima/.fonts/Saab.ttf	exist linguistics turning (Tsukung) already dull do ceased (adverb)
+gurmukhi	478/500	/home/mahima/.fonts/Scheherazade-Bold.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/Scheherazade-Regular.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+gurmukhi	478/500	/home/mahima/.fonts/freemono.ttf	ਆਖਣਗੇ' (ਬਲੱਡ ਪੀਨੇਆਂ ਸਮਝਤਾ ਲੋਥਾਂ ਦਿਨੋਂ ਸੁਆਹ, ਝੂਲਿਆ, ਰੂਪਮਤੀ, ਝਾੜਦਾ
+oriya	139/500	/home/mahima/.fonts/Lohit-Odia.ttf	""ପ୍ରେତଟାଏ ଲଢ଼ିଥିଲେ, ଯନ୍ତ୍ର, ଡକାଇ, ""ଇନ୍ଦ୍ରଗିରି" "ଦାନ'ର "ଗୀତା'ରୁ ଘରେ' ୯।୮୮।୪) ମାଧୁରୀ,
+oriya	139/500	/home/mahima/.fonts/Lohit-Oriya.ttf	""ପ୍ରେତଟାଏ ଲଢ଼ିଥିଲେ, ଯନ୍ତ୍ର, ଡକାଇ, ""ଇନ୍ଦ୍ରଗିରି" "ଦାନ'ର "ଗୀତା'ରୁ ଘରେ' ୯।୮୮।୪) ମାଧୁରୀ,
+oriya	141/500	/home/mahima/.fonts/Samyak-Oriya.ttf	""ପ୍ରେତଟାଏ ଲଢ଼ିଥିଲେ, ଯନ୍ତ୍ର, ଡକାଇ, ""ଇନ୍ଦ୍ରଗିରି" "ଦାନ'ର "ଗୀତା'ରୁ ଘରେ' ୯।୮୮।୪) ମାଧୁରୀ,
+oriya	113/500	/home/mahima/.fonts/utkal.ttf	""ପ୍ରେତଟାଏ ଲଢ଼ିଥିଲେ, ଯନ୍ତ୍ର, ଡକାଇ, ""ଇନ୍ଦ୍ରଗିରି" "ଦାନ'ର "ଗୀତା'ରୁ ଘରେ' ୯।୮୮।୪) ମାଧୁରୀ,
+urdu	1/500	/home/mahima/.fonts/Amiri-Bold.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/Amiri-BoldSlanted.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/Amiri-Regular.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/Amiri-Slanted.ttf	ﻩ
+urdu	7/500	/home/mahima/.fonts/Cairo-Black.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Cairo-Bold.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Cairo-ExtraLight.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Cairo-Light.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Cairo-Regular.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Cairo-SemiBold.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Changa-Bold.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Changa-ExtraBold.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Changa-ExtraLight.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Changa-Light.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Changa-Medium.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Changa-Regular.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Changa-SemiBold.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/ElMessiri-Bold.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/ElMessiri-Medium.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/ElMessiri-Regular.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/ElMessiri-SemiBold.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	1/500	/home/mahima/.fonts/GIST-KAS-PAOTHabba_N_Ship.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/GIST-KAS-PAOTMaqbool.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/GIST-KAS-PAOTMaqbool_N_Ship.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/GIST-UROTGhalib.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/GIST-UROTGhalib_N_Ship.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/GIST-UROTNabeel_N_Ship.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/Jameel Noori Nastaleeq.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/Jomhuria-Regular.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/Katibeh-Regular.ttf	ﻩ
+urdu	6/500	/home/mahima/.fonts/Lalezar-Regular.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ؂پھول ؂نا
+urdu	6/500	/home/mahima/.fonts/LateefRegOT.ttf	ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Lemonada-Bold.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Lemonada-Light.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Lemonada-Regular.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	7/500	/home/mahima/.fonts/Lemonada-SemiBold.ttf	انشاءؔ، ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	1/500	/home/mahima/.fonts/Mirza-Bold.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/Mirza-Medium.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/Mirza-Regular.ttf	ﻩ
+urdu	35/500	/home/mahima/.fonts/Mothanna-Bold-Oblique.ttf	"راجدھانی آنا۔" ۔"لیکن انشاءؔ، 237 93ناقابلِ ۔آؤ" 92 گی۔" "دنیاوی
+urdu	35/500	/home/mahima/.fonts/Mothanna-Bold.ttf	"راجدھانی آنا۔" ۔"لیکن انشاءؔ، 237 93ناقابلِ ۔آؤ" 92 گی۔" "دنیاوی
+urdu	35/500	/home/mahima/.fonts/Mothanna-Oblique.ttf	"راجدھانی آنا۔" ۔"لیکن انشاءؔ، 237 93ناقابلِ ۔آؤ" 92 گی۔" "دنیاوی
+urdu	35/500	/home/mahima/.fonts/Mothanna.ttf	"راجدھانی آنا۔" ۔"لیکن انشاءؔ، 237 93ناقابلِ ۔آؤ" 92 گی۔" "دنیاوی
+urdu	6/500	/home/mahima/.fonts/Naqsh.ttf	انشاءؔ، ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+urdu	15/500	/home/mahima/.fonts/Nastaleeq-Like.ttf	237 93ناقابلِ 92 concluded. ؂انداز 226 ؂آؤ 285 carved ؂پھول
+urdu	11/500	/home/mahima/.fonts/Pak Nastaleeq (Beta Release).ttf	concluded. ﻩ ؂انداز ؂آؤ ۱۹۹۷؁ carved ؂پھول کاEpicentre ؂نا developed
+urdu	1/500	/home/mahima/.fonts/SakalBharati Normal.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/SakalBharati Normal_Ship.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/Scheherazade-Bold.ttf	ﻩ
+urdu	1/500	/home/mahima/.fonts/Scheherazade-Regular.ttf	ﻩ
+urdu	6/500	/home/mahima/.fonts/freemono.ttf	انشاءؔ، ؂انداز ؂آؤ ۱۹۹۷؁ ؂پھول ؂نا
+latin	1/500	/home/mahima/.fonts/Gurajada-Regular.ttf	could-—
+latin	1/500	/home/mahima/.fonts/LakkiReddy-Regular.ttf	could-—
+latin	1/500	/home/mahima/.fonts/SolaimanLipi_20-04-07.ttf	could-—
+latin	1/500	/home/mahima/.fonts/SolaimanLipi_Bold_10-03-12.ttf	could-—
+latin	1/500	/home/mahima/.fonts/TSCu_Comic.ttf	could-—
+latin	1/500	/home/mahima/.fonts/TSCu_Times.ttf	could-—
+latin	1/500	/home/mahima/.fonts/aava1.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_AlArabiya.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_AlBattar.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_AlHor.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_AlManzomah.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_AlMateen-Bold.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_AlMohanad.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_AlMothnna-Bold.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_AlYarmook.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Arab.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Cortoba.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Dimnah.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Electron.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Furat.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Granada.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Graph.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Hani.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Hor.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Japan.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Jet.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Kayrawan.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Khalid.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Mashq-Bold.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Mashq.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Metal.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Nada.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Nagham.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Nice.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Ostorah.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Ouhod-Bold.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Petra.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Rasheeq-Bold.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Rehan.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Salem.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Shado.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Sharjah.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Sindbad.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Tarablus.ttf	could-—
+latin	1/500	/home/mahima/.fonts/ae_Tholoth.ttf	could-—
+latin	1/500	/home/mahima/.fonts/sagarnormal.ttf	could-—
+latin	1/500	/usr/share/fonts/opentype/urw-base35/D050000L.otf	could-—
+latin	1/500	/usr/share/fonts/opentype/urw-base35/StandardSymbolsPS.otf	could-—

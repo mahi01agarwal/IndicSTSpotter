@@ -1,0 +1,5 @@
+# Pillow is installed separately (from source, linked against Raqm) — see README.
+# Do NOT `pip install pillow` plainly; the wheel is not linked against libraqm.
+numpy
+opencv-python-headless
+tqdm

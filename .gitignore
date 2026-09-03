@@ -1,0 +1,22 @@
+# data & models: huge / licensed / hosted elsewhere — never in git
+data/
+checkpoints/
+inference/
+downloads/
+logs/
+eval/
+# third-party fork: documented in REPRODUCE.md, not vendored
+code/PaddleOCR/
+# duplicate tree
+code/synth/FineTune/
+# weights / caches / junk
+*.pdparams
+*.pdopt
+*.pdmodel
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+
+# generated synth output (regenerable data, not code)
+code/synth/out_*/

@@ -1,0 +1,65 @@
+{
+  "bg_dir": "~/data/BackgroundImages",
+  "vocab_dir": "./vocab",
+  "out_dir": "./out_dataset",
+  "num_scenes": 5000,
+  "seed": 0,
+  "resize": 1024,
+  "emit_transcription": true,
+
+  "rows": 6,
+  "cols": 6,
+  "max_per_cell": 5,
+  "empty_cell_prob": 0.10,
+  "row_empty_prob": 0.05,
+  "margin": 2,
+
+  "min_size": 13,
+  "max_size": 34,
+  "size_bias": 1.6,
+  "size_tries": 8,
+  "pos_tries": 50,
+
+  "script_weights": {
+    "latin": 1.5,
+    "devanagari": 1.0,
+    "telugu": 1.0,
+    "tamil": 1.0,
+    "kannada": 1.0,
+    "malayalam": 1.0,
+    "bengali": 1.0,
+    "gujarati": 1.0,
+    "gurmukhi": 1.0,
+    "oriya": 1.0,
+    "urdu": 1.0
+  },
+
+  "rotate_prob": 0.20,
+  "italic_prob": 0.12,
+  "perspective_prob": 0.30,
+  "perspective_frac": 0.10,
+
+  "elastic_prob": 0.18,
+  "elastic_strength": [2.0, 4.0],
+  "curve_prob": 0.18,
+  "curve_amp": [0.12, 0.35],
+  "curve_wave_prob": 0.30,
+  "motion_prob": 0.15,
+  "motion_kmin": 3,
+  "motion_kmax": 9,
+  "defocus_prob": 0.12,
+  "defocus_max": 2,
+
+  "bold_prob": 0.20,
+  "stroke_prob": 0.25,
+  "shadow_prob": 0.20,
+  "faded_prob": 0.15,
+  "multiword_prob": 0.15,
+  "number_prob": 0.20,
+
+  "aug_prob": 0.40,
+  "hue_prob": 0.20,
+  "gray_prob": 0.08,
+  "img_blur_prob": 0.12,
+  "noise_prob": 0.20
+}
