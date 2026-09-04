@@ -4,7 +4,7 @@
 
 ### Multilingual Scene Text Spotting: How Far Can We Go with One OCR?
 
-A single **detector** + single **recognizer** over one **frozen 1,638-character dictionary** —
+A single **detector** + single **recognizer** over one **frozen 1,638-character dictionary** 
 covering **11 Indic scripts + Latin** with *no script identification* and *no per-language weights*.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -25,17 +25,17 @@ Drop a detect+recognize grid on real Indic signage into assets/ and uncomment. -
 Scene text recognition is largely solved for high-resource languages, but multilingual Indic
 text remains hard: 12 writing systems, dense conjuncts, visually similar scripts, and scarce
 real annotations. Most systems answer this with **per-script models** or a **script-identification
-router** — both of which grow linearly in parameters and can misroute.
+router**, both of which grow linearly in parameters and can misroute.
 
 **IndicSTSpotter** asks how far a *single* unified model can go instead. The result: one
 15.8M-parameter recognizer covering all 11 Indic scripts + Latin that **matches or surpasses
-specialized systems 16–200× its size** on character recognition — with the residual end-to-end
+specialized systems 16–200× its size** on character recognition with the residual end-to-end
 error dominated by *detection* in dense scenes, not recognition.
 
 ## Highlights
 
 - **One recognizer, every script.** A shared SVTR + CTC recognizer over a frozen 1,638-char
-  dictionary — no per-language heads, no script router.
+  dictionary, no per-language heads, no script router.
 - **Tiny.** 15.8M-param recognizer / 31.3M total spotter vs. 330M–3.3B for routed & expert-merged baselines.
 - **Task-specific training.** Detector on **real data only** (script-agnostic); recognizer
   **synthetic-pretrained then real-fine-tuned** (script-dependent).
@@ -87,7 +87,7 @@ rec = TextRecognition(model_name="PP-OCRv6_medium_rec", model_dir=f"{d}/rec_stag
 
 ## Reproduce the paper
 
-Every table maps to an exact command in **[REPRODUCE.md](REPRODUCE.md)**. Example — IndicSTR12
+Every table maps to an exact command in **[REPRODUCE.md](REPRODUCE.md)**. Example: IndicSTR12
 word recognition (Table 3):
 
 ```bash
@@ -98,8 +98,8 @@ python code/finetune/eval_rec_gt.py \
 
 ## Models & data
 
-- **Models** → [MODELS.md](MODELS.md) · weights on [🤗 Hugging Face](https://huggingface.co/MahimaSinghal/IndicSTSpotter)
-- **Datasets** → [DATA.md](DATA.md) — official download links + our converters (third-party datasets are not redistributed)
+- **Models** → [MODELS.md](MODELS.md) . weights on [🤗 Hugging Face](https://huggingface.co/MahimaSinghal/IndicSTSpotter)
+- **Datasets** → [DATA.md](DATA.md) . official download links + our converters (third-party datasets are not redistributed)
 
 ## Repository structure
 
