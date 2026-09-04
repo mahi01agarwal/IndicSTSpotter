@@ -1,0 +1,20 @@
+# IndicSTSpotter — pinned Python deps (paddle env, Python 3.10)
+# Fresh env:  conda create -n paddle python=3.10 && conda activate paddle
+#             pip install -r requirements.txt
+# Then set up the PaddleOCR fork per THIRD_PARTY.md.
+paddlepaddle==3.1.0
+paddleocr==3.7.0
+paddlex==3.7.2
+jiwer==4.0.0
+opencv-python==5.0.0.93
+numpy==2.2.6
+pillow==12.3.0
+shapely==2.1.2
+pyclipper==1.4.0
+scikit-image==0.25.2
+rapidfuzz==3.14.5
+tqdm==4.70.0
+PyYAML==6.0.2
+lmdb==2.3.0
+albumentations==2.0.8
+imgaug==0.4.0

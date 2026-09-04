@@ -1,39 +1,43 @@
 # Model weights
 
-Weights are **not** stored in git (they're binary; hosted off-repo). All models are small —
-each inference export is ~60 MB; the full set incl. ablations is ~0.6 GB.
+Weights are hosted on Hugging Face (not in git). All models are small — each inference
+export is ~60 MB.
 
-> **Download links: _TODO_ — fill in after uploading to Hugging Face / Zenodo.**
+**Repo:** <https://huggingface.co/MahimaSinghal/IndicSTSpotter>  *(private during review; made public at release)*
 
 ## Released (inference exports)
 
-| Model | Params | Role | Reproduces | Download |
+| Model | Params | Role | Reproduces | Location |
 |---|---|---|---|---|
-| **rec_stage2** (stage2A) | 15.8M | headline recognizer (synth-pretrain → real fine-tune) | T3, T5, T6, T7, T8 | _TODO_ |
-| **det_mist** | 15.5M | headline detector (real + MIST, dense scenes) | T4, T6, T7, T8 | _TODO_ |
-| `dicts/unified_dict.txt` | — | frozen 1,638-char dictionary (in git) | all rec | in repo |
+| **rec_stage2** | 15.8M | headline recognizer (synth-pretrain → real fine-tune) | T3, T5, T6, T7, T8 | HF repo, `rec_stage2/` |
+| **det_mist** | 15.5M | headline detector (real + MIST, dense scenes) | T4, T6, T7, T8 | HF repo, `det_mist/` |
+| `unified_dict.txt` | — | frozen 1,638-char dictionary | all rec | in this repo (`dicts/`) + HF repo |
 
-### Ablation / supporting models (optional, still small)
+Download:
 
-| Model | Role |
-|---|---|
-| rec_stage1 | synth-only pretrain (ablation ladder) |
-| rec_balanced | synth+real balanced (warm-start source for stage2A) |
-| rec_stage2_B | stage-2 variant (A′/B tie-breaker) |
-| det_real | real-only detector (no MIST; ablation) |
-| ablations/* | det_synthonly, rec_unified_1440dict, v5_devanagari_specdict, … |
+```python
+from huggingface_hub import snapshot_download
+d = snapshot_download("MahimaSinghal/IndicSTSpotter", repo_type="model")
+# -> d/rec_stage2, d/det_mist, d/unified_dict.txt
+```
+
+## Not hosted (ablation / supporting models)
+
+Available on request; not required to reproduce the paper's headline tables:
+`rec_stage1` (synth-only), `rec_balanced` (warm-start source for stage2), `rec_stage2_B`
+(A′/B variant), `det_real` (no-MIST detector), and the other ablation exports.
 
 ## Use
 
-Each download is a PaddleOCR inference dir (`inference.yml` + `*.pdmodel`/`*.pdiparams`).
-Point an eval at it with `--model <label> <dir>` (rec) or `--det-dir/--rec-dir <dir>` (det/e2e).
-The `model_name` is `PP-OCRv6_medium_rec` / `PP-OCRv6_medium_det` (the eval defaults).
-See `REPRODUCE.md` for the exact per-table commands.
+Each model dir is a PaddleOCR inference export (`inference.yml` + `*.pdmodel`/`*.pdiparams`).
+Point an eval at it via `--model <label> <dir>` (rec) or `--det-dir` / `--rec-dir` (det/e2e);
+`model_name` is `PP-OCRv6_medium_rec` / `PP-OCRv6_medium_det`. See `REPRODUCE.md` for the exact
+per-table commands.
 
 ## Recreate an inference export from a training checkpoint
 
-Training checkpoints (with optimizer state) are **not** released — inference exports are enough.
-To re-export from a checkpoint, always pass the frozen dict so the CTC head classes align:
+Training checkpoints (with optimizer state) are not released — inference exports are enough.
+To re-export, always pass the frozen dict so the CTC head classes align:
 
 ```bash
 python code/PaddleOCR/tools/export_model.py -c <config.yml> \

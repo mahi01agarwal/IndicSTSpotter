@@ -1,0 +1,13 @@
+diff --git a/ppocr/modeling/backbones/rec_lcnetv3.py b/ppocr/modeling/backbones/rec_lcnetv3.py
+index 387c76108b..112db307ed 100644
+--- a/ppocr/modeling/backbones/rec_lcnetv3.py
++++ b/ppocr/modeling/backbones/rec_lcnetv3.py
+@@ -226,7 +226,7 @@ class LearnableRepLayer(nn.Layer):
+             out += self.conv_1x1(x)
+ 
+         for conv in self.conv_kxk:
+-            out += conv(x)
++            out = out + conv(x)
+ 
+         out = self.lab(out)
+         if self.stride != 2:
